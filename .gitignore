@@ -1,0 +1,33 @@
+# Node Modules
+node_modules/
+
+# Package Lock / Yarn Lock
+package-lock.json
+yarn.lock
+
+# Compiled output
+dist/
+build/
+*.exe
+*.o
+
+# IDE / Editor Files
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+.tmp/
+.cache/
+
+# Windows Thumbs.db
+Thumbs.db
+
+# macOS .DS_Store files
+.DS_Store
+
+# Environment variables file
+.env
